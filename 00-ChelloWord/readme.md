@@ -1,5 +1,3 @@
-#TP0- Sofia Barreneche -SSL 2025
-
 # Trabajo Práctico - Compilador C
 
 ## Compilador seleccionado
