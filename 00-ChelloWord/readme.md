@@ -1,1 +1,14 @@
-TP0- Sofia Barreneche -SSL 2025
+#TP0- Sofia Barreneche -SSL 2025
+
+# Trabajo Práctico - Compilador C
+
+## Compilador seleccionado
+
+Se utilizó GCC como compilador de C en el entorno MSYS2 (perfil UCRT64).
+
+### Salida del comando `gcc --version`
+
+gcc.exe (Rev2, Built by MSYS2 project) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
